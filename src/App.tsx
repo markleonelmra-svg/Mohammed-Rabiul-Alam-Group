@@ -464,8 +464,8 @@ const Footer = () => {
             <h4 className="text-sm uppercase tracking-widest text-white/50 mb-6">Connect</h4>
             <ul className="space-y-4 font-light text-white/80">
               <li>
-                <a href="#" className="flex items-center gap-3 hover:text-white transition-colors">
-                  <Globe className="w-5 h-5" /> www.mragroup.com
+                <a href="https://mohemmedrabiulalamgroup.netlify.app" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 hover:text-white transition-colors">
+                  <Globe className="w-5 h-5" /> mohemmedrabiulalamgroup.netlify.app
                 </a>
               </li>
             </ul>
